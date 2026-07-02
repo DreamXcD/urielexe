@@ -19,7 +19,7 @@ git pull origin main
 
 pip install -r requirements.txt
 
-python main.py
+python urielexe.py
 
  Caso precisar pra usar o comando pip install -r requirements.txt
 
