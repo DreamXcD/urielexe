@@ -20,3 +20,16 @@ git pull origin main
 pip install -r requirements.txt
 
 python main.py
+
+ Caso precisar pra usar o comando pip install -r requirements.txt
+
+1. Cria um ambiente virtual
+
+python -m venv venv
+
+Ativar ambiente virtual
+
+source venv/bin/activate
+
+
+
